@@ -3,7 +3,7 @@
     <td valign="top">
       <h1>Debapratim Mukherjee</h1>
       <p><strong>Energy systems, industrial decarbonisation, environmental modelling, econometrics, and machine learning.</strong></p>
-      <p>I work at the intersection of energy systems, environmental modelling, econometrics, and machine learning — with a focus on data-driven support for energy transition and industrial decarbonisation decisions. My research integrates econometric analysis, optimisation-based energy system modelling, environmental simulation, and ML-based multivariate time-series forecasting. I have applied these methods across economic, environmental, industrial, and spatial datasets, with case studies spanning cement-sector flexibility, carbon-budget modelling, renewable energy economics, pollution analysis, and ecological forecasting. A central principle in my work is reproducibility: connecting raw data, assumptions, and scenarios to transparent, decision-relevant outputs.</p>
+      <p>I work at the intersection of energy systems, environmental modelling, econometrics, and machine learning, applying these methods to energy transition and industrial decarbonisation challenges. My research spans econometric analysis, optimisation-based energy system modelling, and ML-driven time-series forecasting, with applications in cement-sector flexibility, carbon-budget modelling, renewable energy economics, and ecological forecasting. I prioritise reproducible workflows that connect data and assumptions to transparent, decision-relevant outputs.</p>
     </td>
     <td width="230" valign="top" align="right">
       <img src="assets/profile.jpeg" alt="Debapratim Mukherjee" width="210">
