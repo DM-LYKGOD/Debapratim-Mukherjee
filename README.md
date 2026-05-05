@@ -25,7 +25,7 @@
 | Area | Project | Methods |
 | --- | --- | --- |
 | Energy Modeling | [ESM-P1-MGA](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/12-ESM-P1-MGA) | PyPSA, MGA, cement-sector flexibility |
-| Energy Modeling | [HiSim Practice Task](https://github.com/DM-LYKGOD/HiSim_PracticeTask) | ETHOS.HiSim, heat pumps, batteries, EVs |
+| Energy Modeling | [HiSim Practice Task](https://github.com/DM-LYKGOD/Projects_DM/tree/6b680cc19423d99f5f13a7b9b290da26b508749e/projects/13-hisim-practice-task) | ETHOS.HiSim, heat pumps, batteries, EVs |
 | Energy Modeling | [Carbon Budget and CDR Modeling](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/10-carbon-budget-cdr-modeling) | Optimal control, GEKKO |
 | Energy Modeling | [Renewable Energy Econometrics](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/08-renewable-energy-econometrics) | Regression, GDP, renewable energy |
 | Environmental Modeling | [Phytoplankton Density Prediction](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/09-phytoplankton-density-prediction) | Random Forest, XGBoost, hybrid ML |
