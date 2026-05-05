@@ -18,21 +18,24 @@
 - Econometric analysis of regional decarbonisation pathways
 - Machine learning for multivariate environmental time-series forecasting
 - Environmental and ecosystem simulation models
+- Building energy system simulation (ETHOS.HiSim fork)
 
 ## Featured Work
 
 | Area | Project | Methods |
 | --- | --- | --- |
 | Energy Modeling | [ESM-P1-MGA](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/12-ESM-P1-MGA) | PyPSA, MGA, cement-sector flexibility |
-| Energy Modeling | [HiSim Practice Task](https://github.com/DM-LYKGOD/HiSim_PracticeTask) | Household energy system simulation, heat pumps, batteries |
+| Energy Modeling | [HiSim Practice Task](https://github.com/DM-LYKGOD/HiSim_PracticeTask) | ETHOS.HiSim, heat pumps, batteries, EVs |
 | Energy Modeling | [Carbon Budget and CDR Modeling](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/10-carbon-budget-cdr-modeling) | Optimal control, GEKKO |
 | Energy Modeling | [Renewable Energy Econometrics](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/08-renewable-energy-econometrics) | Regression, GDP, renewable energy |
 | Environmental Modeling | [Phytoplankton Density Prediction](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/09-phytoplankton-density-prediction) | Random Forest, XGBoost, hybrid ML |
 | Environmental Modeling | [Lake Eutrophication Model](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/01-lake-eutrophication-model) | ODE modelling, R, deSolve |
 | Environmental Modeling | [Sediment Oxygen Dynamics](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/04-sediment-oxygen-dynamics) | Oxygen transport, decay modelling |
 | Environmental Modeling | [Cement Emissions Analysis](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/11-cement-emissions-analysis) | Pollution regression, clustering |
+| Environmental Modeling | [River Flow Distance Analysis](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/05-river-flow-distance-analysis) | GIS, shortest-path over river networks |
+| Applied Math | [Autocatalytic Reaction CSTR](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/02-autocatalytic-reaction-cstr) | Flow-through stirred tank kinetics, R |
 
-Full portfolio: [Projects_DM](https://github.com/DM-LYKGOD/Projects_DM)
+Full portfolio: [Projects_DM](https://github.com/DM-LYKGOD/Projects_DM) (13 projects)
 
 ## Research Experience
 
@@ -48,10 +51,11 @@ Developed econometric models for regional decarbonisation pathways, worked with 
 ## Technical Skills
 
 **Programming:** Python, R, SQL  
-**Modelling:** Econometrics, time-series analysis, ODE models, optimisation  
-**Machine Learning:** Random Forest, XGBoost, LSTM  
-**Energy Systems:** FINE, PyPSA, MGA  
-**Tools:** Git, Jupyter, GIS
+**Energy Systems:** PyPSA, FINE, MGA, ETHOS.HiSim  
+**Machine Learning:** Random Forest, XGBoost, LSTM, scikit-learn  
+**Scientific Computing:** GEKKO, deSolve, pandas, NumPy, statsmodels  
+**Geospatial:** geopandas, sf, sfnetworks, terra, GIS workflows  
+**Tools:** Git, Jupyter, Matplotlib, Seaborn
 
 ## Publication
 
