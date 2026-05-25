@@ -35,7 +35,7 @@
 | Environmental Modeling | [River Flow Distance Analysis](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/05-river-flow-distance-analysis) | GIS, shortest-path over river networks |
 | Applied Math | [Autocatalytic Reaction CSTR](https://github.com/DM-LYKGOD/Projects_DM/tree/main/projects/02-autocatalytic-reaction-cstr) | Flow-through stirred tank kinetics, R |
 
-Full portfolio: [Projects_DM](https://github.com/DM-LYKGOD/Projects_DM) (13 projects)
+Full portfolio: [Projects_DM](https://github.com/DM-LYKGOD/Projects_DM) (14 projects)
 
 ## Research Experience
 
